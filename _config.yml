@@ -32,13 +32,13 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : 
+  substack         : "https://substack.com/@kruju"
   impactstory      : # URL
   orcid            : 
   semantic         : # URL
   pubmed           : # nothing
   researchgate     : # URL
-  substack         : "https://substack.com/@kruju?r=1r0vq5&utm_campaign=profile&utm_medium=profile-page"
+  substack         : "https://substack.com/@kruju"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
