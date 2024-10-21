@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-MON21OCT24
+> MON21OCT24
+
 Hello there, I'm Thomas, recently I've started to get very involved into coding, python and specially C, which I'm stil finding it extremely difficult. This is a side project of mine where I intend to put some research, or interesting things I learn inside this website. I addition I will be posting on substack in a irregular manner. I will try to find a way to create interesting prompts, website apps and writtings to feed this website a little bit. 
 So here it is, the culmination of my efforts to create a nice looking website using HTML and CSS but ending up using a simple template with a markdown format. I think it is good enough for me. The website that inspired me to create one of my own is this on https://moores.samaltman.com/
 - 2024-10-21 
