@@ -2,7 +2,7 @@
 title: "The Future of the Labour Market in OECD Countries: How Societies & Governments should react to the upcoming wave of Service Automation"
 collection: Master Thesis
 category: Publications
-permalink: /publication//master_thesis_2023
+permalink: /publication/master_thesis_2023
 excerpt: 'This thesis is about the future of work'
 date: 2023-06-14
 venue: 'Future of Work'
